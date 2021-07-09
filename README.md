@@ -33,7 +33,6 @@ This repository contains a script to use for benchmark purposes on application e
 
 # Usage Examples
 
-`
-POST: node benchmark.js http://ciandt.mocklab.io/test 2 POST '{"foo": "bar"}'
-GET: node benchmark.js http://ciandt.mocklab.io/thing 5
-`
+`POST: node benchmark.js http://ciandt.mocklab.io/test 2 POST '{"foo": "bar"}'`</br>
+`GET: node benchmark.js http://ciandt.mocklab.io/thing 5`
+
